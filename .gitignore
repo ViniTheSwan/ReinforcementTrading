@@ -1,0 +1,5 @@
+parent/Trading/data/
+parent/Trading/__pycache__/
+parent/__pycache__/
+parent/Trading/RL/__pycache__/
+.idea/
